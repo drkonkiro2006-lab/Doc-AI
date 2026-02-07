@@ -144,46 +144,6 @@ Landing Page
 
 _(Adjust this section based on your actual implementation.)_
 
----
-
-## 📸 **Screenshots & Demo**
-
-_Add your screenshots in the sections below 👇_
-
-### 🔹 Landing Page
-<!-- Add Screenshot Here -->
-
-
-
----
-
-### 🔹 User Dashboard
-<!-- Add Screenshot Here -->
-<img width="1919" height="865" alt="image" src="https://github.com/user-attachments/assets/79e94be5-fe1e-4d9f-94b4-7f592e4e3d5b" />
-
----
-
-### 🔹 Image Analysis
-<!-- Add Screenshot Here -->
-<img width="1903" height="867" alt="image" src="https://github.com/user-attachments/assets/50d3634e-2532-4935-a7de-86bec44804ba" />
-
----
-### 🔹 Prediction Summary
-<img width="1600" height="763" alt="image" src="https://github.com/user-attachments/assets/166bca49-caaf-4336-b132-20336d7d5560" />
-
-
-### 🔹 Report Explainer
-<!-- Add Screenshot Here -->
-<img width="1919" height="790" alt="image" src="https://github.com/user-attachments/assets/1a673aca-5a82-456e-9d71-ef8e34e22211" />
-
-
-
----
-
-### 🔹 AI Health Assistant
-<!-- Add Screenshot Here -->
-<img width="1902" height="871" alt="image" src="https://github.com/user-attachments/assets/25eddcff-1821-4b3d-af3e-056b14a616c6" />
-
 
 ---
 
